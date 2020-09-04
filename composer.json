@@ -1,10 +1,10 @@
 {
-    "name": "shopex/shopex-hyperf-common",
-    "description": "shopex-hyperf-common",
+    "name": "shopex/shopex-hyperf-public",
+    "description": "shopex-hyperf-public",
     "license": "MIT",
     "authors": [
         {
-            "name": "yangyuxing",
+            "name": "waitwait",
             "email": "waitwait365@gmail.com"
         }
     ],
