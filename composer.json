@@ -31,10 +31,5 @@
         "hyperf/amqp": "^2.0",
         "hyperf/crontab": "^2.0",
         "hyperf/snowflake": "^2.0"
-    },
-    "autoload": {
-        "psr-4": {
-            "ShopexCommon\\": "src/"
-        }
     }
 }
