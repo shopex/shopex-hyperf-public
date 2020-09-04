@@ -1,0 +1,40 @@
+{
+    "name": "shopex/shopex-hyperf-common",
+    "description": "shopex-hyperf-common",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yangyuxing",
+            "email": "waitwait365@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2",
+        "ext-swoole": ">=4.5",
+        "hyperf/cache": "~2.0.0",
+        "hyperf/command": "~2.0.0",
+        "hyperf/config": "~2.0.0",
+        "hyperf/db-connection": "~2.0.0",
+        "hyperf/framework": "~2.0.0",
+        "hyperf/guzzle": "^2.0",
+        "hyperf/http-server": "~2.0.0",
+        "hyperf/logger": "~2.0.0",
+        "hyperf/memory": "~2.0.0",
+        "hyperf/process": "~2.0.0",
+        "hyperf/redis": "^2.0",
+        "hyperf/constants": "~2.0.0",
+        "hyperf/model-cache": "~2.0.0",
+        "hyperf/elasticsearch": "~2.0.0",
+        "hyperf/event": "^2.0",
+        "hyperf/websocket-client": "^2.0",
+        "hyperf/websocket-server": "^2.0",
+        "hyperf/amqp": "^2.0",
+        "hyperf/crontab": "^2.0",
+        "hyperf/snowflake": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ShopexCommon\\": "src/"
+        }
+    }
+}
